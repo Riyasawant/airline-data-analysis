@@ -1,1 +1,4 @@
-# airline-data-analysis
+# Airline-data-analysis
+
+#Problem Statement-
+The airline company operates diverse flights ranging from small scale business jets to medium size machines. We have been providing high quality air transportation services to our clients for several years, our primary focus is safety, comfort and convenicence of the passengers. However, currently we are facing challenges due to several factors such as stricter environmental regulations, higher fuel prices, and tight labor market resulting into increasing interest rates, rising fuel prices, and tight labor market resulting into higher labor cost. As a result, company profitability is under pressure, and they are seeking ways to address the issue. To tackle this challenge, they are looking to conduct analysis of their database to find ways to increase their occupancy rate, which help boost average profit earned per seat.
